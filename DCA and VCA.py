@@ -1,4 +1,6 @@
 #---------------------------------------------------------------------------------------------------------#
+# Name of Author: Akash Balakrishnan
+# File Created: 4/23/2026
 #This program is used for a customer to either use Dollar Cost Averaging or Value Cost Averaging
 
 import pandas as pd
